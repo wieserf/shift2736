@@ -5,13 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c8361bbe-02fb-431c-a1f0-5f0478da066d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Media.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MediaAltura.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MediaWhile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MediaWhile2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tabuada.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/While3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BancoFiap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Fatorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/For.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MediaFor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TabuadaDoWhile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,10 +27,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2twy5lMieNltTvgbYvl8MPNSLIS" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -39,10 +38,14 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.BancoFiap.executor": "Run",
+    "Application.Fatorial.executor": "Run",
+    "Application.For.executor": "Run",
     "Application.MediaAltura.executor": "Run",
     "Application.MediaWhile.executor": "Run",
     "Application.MediaWhile2.executor": "Run",
     "Application.Tabuada.executor": "Run",
+    "Application.TabuadaDoWhile.executor": "Run",
     "Application.While3.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -50,6 +53,44 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.Fatorial">
+    <configuration name="BancoFiap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BancoFiap" />
+      <module name="aula03" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Fatorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Fatorial" />
+      <module name="aula03" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="For" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="For" />
+      <module name="aula03" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TabuadaDoWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TabuadaDoWhile" />
+      <module name="aula03" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Fatorial" />
+        <item itemvalue="Application.For" />
+        <item itemvalue="Application.BancoFiap" />
+        <item itemvalue="Application.TabuadaDoWhile" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
